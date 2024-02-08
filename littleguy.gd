@@ -30,6 +30,6 @@ func _on_fallspace_body_entered(body):
 			alive = false;
 			$"../vineboom".play()
 			$"../AudioStreamPlayer".stop()
-			print("booboo")
+			print("booboo?")
 			
 	
